@@ -7,7 +7,7 @@
 🎓 Futuro Ingeniero en Informática
 Transformando problemas complejos en soluciones lógicas.
 
-📻 Soundtrack & Lifestyle:
+🎸 Soundtrack & Lifestyle:
 - Sonido analógico, discos de vinilo y seis cuerdas.
 - Fuerza y templanza mediante la calistenia.
 - Inmersión en historias virtuales de alta fidelidad (RDR2).
