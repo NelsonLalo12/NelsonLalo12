@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 soy Nelson <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> soy Nelson <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
@@ -8,11 +8,11 @@
 Transformando problemas complejos en soluciones lógicas.
 
 📻 Soundtrack & Lifestyle:
-• Sonido analógico, discos de vinilo y seis cuerdas.
-• Fuerza y templanza mediante la calistenia.
-• Inmersión en historias virtuales de alta fidelidad (RDR2).
+- Sonido analógico, discos de vinilo y seis cuerdas.
+- Fuerza y templanza mediante la calistenia.
+- Inmersión en historias virtuales de alta fidelidad (RDR2).
 
-✦ La elegancia reside en la simplicidad del detalle.
+⚡La elegancia reside en la simplicidad del detalle.
 
 📩 Mail: nelsonlalo12@gmail.com
 <!--Intro end-->
@@ -40,10 +40,13 @@ Transformando problemas complejos en soluciones lógicas.
 | ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
 
 
+<h2>GitHub :octocat:</h2>
+
+
 <!--este texto es un Linux girando XD-->
 <img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
 
-<h2>GitHub :octocat:</h2>
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
