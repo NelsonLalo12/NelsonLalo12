@@ -30,10 +30,7 @@ Transformando problemas complejos en soluciones lógicas.
 <!-------------------------->
 
 
-</div>
 
-<br>
-<br>
 <!--La víbora de los jueguitos -->
 | Snake Eating Contributions in the last year |
 
