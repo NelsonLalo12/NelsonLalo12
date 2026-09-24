@@ -35,8 +35,7 @@ Transformando problemas complejos en soluciones lógicas.
 <br>
 <!--La víbora de los jueguitos -->
 
-  Snake Eating Contributions in the last year 
-
+  ¡NO LO MIRES TERMINAR LA ULTIMA 🍎! 
  ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) 
 
 
@@ -65,10 +64,15 @@ Transformando problemas complejos en soluciones lógicas.
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NelsonLalo12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
   </td>
 </tr>
 </table>
 
 </p>        
 <!--- stats (end) -->
-
