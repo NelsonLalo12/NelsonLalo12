@@ -44,7 +44,7 @@ Transformando problemas complejos en soluciones lógicas.
 
 <div align="Center">
 
-<h2>GitHub :octocat:</h2>
+
 
 
 <!--este texto es un Linux girando XD-->
