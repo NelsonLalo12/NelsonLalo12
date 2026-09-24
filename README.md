@@ -23,7 +23,7 @@ Transformando problemas complejos en soluciones lógicas.
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,dotnet,html,js,mysql,git,github,docker,eclipse,vscode,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,dotnet,html,js,mysql,git,github,docker,eclipse,php,vscode,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
