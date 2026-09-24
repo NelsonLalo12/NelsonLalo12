@@ -23,7 +23,7 @@ Transformando problemas complejos en soluciones lógicas.
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,py,dotnet,html,js,mysql,sqlite,firebase,git,github,docker,eclipse,vscode,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,dotnet,html,js,mysql,git,github,docker,eclipse,vscode,linux,ai,ps&perline=12" />
   </a>
 </p>
 <br>
@@ -35,15 +35,9 @@ Transformando problemas complejos en soluciones lógicas.
 <br>
 <!--La víbora de los jueguitos -->
 
-| Snake Eating Contributions in the last year |
+  Snake Eating Contributions in the last year 
 
-
-| ------------------------------------------|
-
-
-| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
-
-
+ ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) 
 
 
 <div align="Center">
