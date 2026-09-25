@@ -16,9 +16,10 @@
 ⚡La elegancia reside en la simplicidad del detalle.
 
 <h3>Discord <img src="https://cdn3.emoji.gg/emojis/315538-discord.gif" width="28"> : nelsonlalo
-</h3>
+
 📩 Mail: nelsonlalo12@gmail.com
 
+</h3>
 <!--aplicaciones que uso a diario-->
 
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
