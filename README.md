@@ -6,7 +6,7 @@
 <p align="left">
 🎓 Futuro Ingeniero en Informática
 
-- Enfocado en arquitectura de software y hardware.
+- Enfocado en arquitectura de hardware y software.
 
 🎸 Fuera del código:
 - Amante de la buena música y la guitarra como vía de escape.
