@@ -1,6 +1,6 @@
 <h1 align="center">¡¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Bienvenido <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">!!</h1>
 
-<h2>Sobre mí: <img src="https://cdn3.emoji.gg/emojis/476019-catpop.gif" width="28"></h2>
+<h2><img src="https://cdn3.emoji.gg/emojis/476019-catpop.gif" width="28"></h2>Sobre mí: 
 <!--Intro start-->
 
 <p align="left">
@@ -15,7 +15,7 @@
 
 ⚡La elegancia reside en la simplicidad del detalle.
 
-<h3>Discord <img src="https://cdn3.emoji.gg/emojis/315538-discord.gif" width="28"> : nelsonlalo
+<h3><img src="https://cdn3.emoji.gg/emojis/315538-discord.gif" width="28"> Discord: nelsonlalo
 
 <!--📩 Mail: nelsonlalo12@gmail.com-->
 
