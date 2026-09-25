@@ -81,7 +81,7 @@ Transformando problemas complejos en soluciones lógicas.
 
   <!--- stats (start) -->
 <h2>
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">My GitHub Stats
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" >My GitHub Stats
 </h2>
   
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
