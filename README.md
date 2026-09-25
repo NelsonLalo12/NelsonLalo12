@@ -1,6 +1,6 @@
 <h1 align="center">¡¡Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Bienvenido <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">!!</h1>
 
-<h2>Sobre mi: 🙂‍↔️</h2>
+<h2>Sobre mí: 🙂‍↔️</h2>
 <!--Intro start-->
 
 <p align="left">
