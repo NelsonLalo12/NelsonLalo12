@@ -86,11 +86,11 @@ Transformando problemas complejos en soluciones lógicas.
 ![](https://streak-stats.demolab.com/?user=NelsonLalo12&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NelsonLalo12&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-
+---
 ### ✍️ Frase random del día:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+---
 ## 🏆 GitHub Trofeos:
 ![](https://github-profile-trophy.vercel.app/?username=NelsonLalo12&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
  
