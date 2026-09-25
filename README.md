@@ -17,7 +17,7 @@
 
 <h3>Discord <img src="https://cdn3.emoji.gg/emojis/315538-discord.gif" width="28"> : nelsonlalo
 
-📩 Mail: nelsonlalo12@gmail.com
+<!--📩 Mail: nelsonlalo12@gmail.com-->
 
 </h3>
 <!--aplicaciones que uso a diario-->
