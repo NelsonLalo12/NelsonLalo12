@@ -6,13 +6,12 @@
 <p align="left">
 🎓 Futuro Ingeniero en Informática
 
-- Transformando problemas complejos en soluciones lógicas.
-- Apasionado por la arquitectura de hardware y software.
+- Enfocado en arquitectura de software y hardware.
 
-🎸 Soundtrack & Lifestyle:
-- Música en formato físico, sonido de alta fidelidad y la guitarra como vía de escape.
-- Fuerza y templanza mediante la calistenia y la meditación.
-- Amante de la inmersión en historias virtuales de alta fidelidad (RDR2).
+🎸 Hobby's:
+- Amante de la buena música y la guitarra como vía de escape.
+- Calistenia y meditación para despejar la cabeza.
+- Viciando a RDR2 cuando hay tiempo libre.
 
 ⚡La elegancia reside en la simplicidad del detalle.
 
