@@ -14,7 +14,7 @@
 - Inmersión en historias virtuales de alta fidelidad (RDR2).
 
 ⚡La elegancia reside en la simplicidad del detalle.
-<h2>Discord: <img src="https://cdn3.emoji.gg/emojis/315538-discord.gif" width="28": nelsonlalo></h2> 
+<h2>Discord: <img src="https://cdn3.emoji.gg/emojis/315538-discord.gif"width="28"> : nelsonlalo </h2> 
 
 
 📩 Mail: nelsonlalo12@gmail.com
