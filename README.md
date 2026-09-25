@@ -18,8 +18,7 @@ Transformando problemas complejos en soluciones lógicas.
 <!--aplicaciones que uso a diario-->
 ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 <!--Intro end-->
-  </p>
-<br>
+
 <!--apartado de cosas que debo saber como ingeniero-->
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Lenguajes, frameworks y herramientas </h2>
 <table>
@@ -55,7 +54,7 @@ Transformando problemas complejos en soluciones lógicas.
 
 <!--La víbora de los jueguitos -->
 
-  ¡NO LO MIRES TERMINAR LA ULTIMA 🍎! 
+  <h2>¡NO LO MIRES TERMINAR LA ULTIMA 🍎! </h2>
  ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) 
 
 
