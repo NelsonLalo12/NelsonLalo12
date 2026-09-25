@@ -21,7 +21,7 @@ Transformando problemas complejos en soluciones lógicas.
 
 <!--apartado de cosas que debo saber como ingeniero-->
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
+<h2>🛠️ | Lenguajes, frameworks y herramientas </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -52,15 +52,6 @@ Transformando problemas complejos en soluciones lógicas.
 <!--end-->
 
 
-
-<h2 >Tecnologías conocidas: 👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,py,dotnet,html,js,mysql,git,github,docker,eclipse,php,vscode,linux,ai,ps&perline=12" />
-  </a>
-</p>
-<br>
 <!-------------------------->
 
 </div>
