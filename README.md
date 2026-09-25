@@ -50,11 +50,9 @@
 </table>
 <br>
 <!--end-->
-
 <!-------------------------->
-
+---
 <!--La víbora de los jueguitos -->
-
 <h2>¡NO LO MIRES TERMINAR LA ULTIMA 🍎! </h2>
 
  ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) 
