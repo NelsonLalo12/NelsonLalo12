@@ -78,12 +78,11 @@ Transformando problemas complejos en soluciones lógicas.
 
 
 <!--- stats & Trophy (start) -->
-<p align="center">
+
   <!--- stats (start) -->
-
-
-<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
+<h2>
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">My GitHub Stats
+</h2>
   
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
 </td>
