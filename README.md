@@ -8,13 +8,12 @@
 
 - Enfocado en arquitectura de software y hardware.
 
-🎸 Hobby's:
+🎸 Fuera del código:
 - Amante de la buena música y la guitarra como vía de escape.
 - Calistenia y meditación para despejar la cabeza.
 - Viciando a RDR2 cuando hay tiempo libre.
 
-⚡La elegancia reside en la simplicidad del detalle.
-
+⚡Keep it simple.
 <h3><img src="https://cdn3.emoji.gg/emojis/315538-discord.gif" width="28"> Discord: nelsonlalo
 
 <!--📩 Mail: nelsonlalo12@gmail.com-->
