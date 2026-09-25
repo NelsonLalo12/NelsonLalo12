@@ -45,6 +45,13 @@ Transformando problemas complejos en soluciones lógicas.
 <img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
 
 
+<!--MENSAJE ALEATORIO EN ESPAÑOL-->
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=El%20código%20es%20como%20el%20humor.%20Cuando%20tienes%20que%20explicarlo,%20es%20malo.&author=Cory%20House" alt="Quote" />
+</p>
+
+
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
