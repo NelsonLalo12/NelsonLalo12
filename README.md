@@ -15,6 +15,9 @@ Transformando problemas complejos en soluciones lógicas.
 ⚡La elegancia reside en la simplicidad del detalle.
 
 📩 Mail: nelsonlalo12@gmail.com
+
+<!--aplicaciones que uso a diario-->
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat&logo=steam&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat&logo=epicgames&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=flat&logo=battle.net&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=flat&logo=amd&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=flat&logo=ea&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
 <!--Intro end-->
   </p>
 <br>
@@ -83,6 +86,7 @@ Transformando problemas complejos en soluciones lógicas.
 
   <!--- stats (start) -->
 <h2>
+  <!--- gif de estadistica-->
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Mis estadísticas en GitHub
 </h2>
   
@@ -92,6 +96,14 @@ Transformando problemas complejos en soluciones lógicas.
 <td width="40%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+![](https://github-readme-stats.shion.dev/api?username=NelsonLalo12&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=NelsonLalo12&theme=aura_dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=NelsonLalo12&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+
 
 ### ✍️ Frase random del día:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
