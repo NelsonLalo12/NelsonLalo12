@@ -64,13 +64,16 @@ Transformando problemas complejos en soluciones lógicas.
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NelsonLalo12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
   </td>
 </tr>
 </table>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </p>        
 <!--- stats (end) -->
