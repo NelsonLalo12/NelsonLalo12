@@ -5,7 +5,8 @@
 
 <p align="left">
 🎓 Futuro Ingeniero en Informática
-    - Transformando problemas complejos en soluciones lógicas.
+
+- Transformando problemas complejos en soluciones lógicas.
 
 🎸 Soundtrack & Lifestyle:
 - Sonido analógico, discos de vinilo y seis cuerdas.
