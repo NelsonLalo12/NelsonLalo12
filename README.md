@@ -21,7 +21,7 @@ Transformando problemas complejos en soluciones lógicas.
 
 <!--apartado de cosas que debo saber como ingeniero-->
 
-<h2>🛠️ | Lenguajes, frameworks y herramientas </h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> | Lenguajes, frameworks y herramientas </h2>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
