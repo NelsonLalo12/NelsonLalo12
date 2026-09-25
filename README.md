@@ -65,16 +65,14 @@ Transformando problemas complejos en soluciones lógicas.
 <img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
 
 
-<!--MENSAJE ALEATORIO EN ESPAÑOL-->
-<table>
+<!--MENSAJE ALEATORIO EN ESPAÑOL (por ahora NO LO USARE-->
+<!---<table>
   <tr>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=El%20código%20es%20como%20el%20humor.%20Cuando%20tienes%20que%20explicarlo,%20es%20malo.&author=Cory%20House" alt="Quote" />
 </p>
   </tr>
-</table>
-
-<!--- stats & Trophy (start) -->
+</table>-->
 
   <!--- stats (start) -->
 <h2>
@@ -82,12 +80,11 @@ Transformando problemas complejos en soluciones lógicas.
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Mis estadísticas en GitHub
 </h2>
 
+<!--- estadisticas personal (start) -->
+
 ![](https://github-readme-stats.shion.dev/api?username=NelsonLalo12&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=NelsonLalo12&theme=aura_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NelsonLalo12&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-
-
 
 
 ### ✍️ Frase random del día:
@@ -95,7 +92,7 @@ Transformando problemas complejos en soluciones lógicas.
 
 
 ## 🏆 GitHub Trofeos:
-![](https://github-profile-trophy.vercel.app/?username=NelsonLalo12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NelsonLalo12&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
 
   </td>
 </tr>
