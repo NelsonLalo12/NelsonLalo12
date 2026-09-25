@@ -53,10 +53,6 @@ Transformando problemas complejos en soluciones lógicas.
 
 <!-------------------------->
 
-</div>
-
-<br>
-<br>
 <!--La víbora de los jueguitos -->
 
   ¡NO LO MIRES TERMINAR LA ULTIMA 🍎! 
