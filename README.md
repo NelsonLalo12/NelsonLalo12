@@ -7,11 +7,12 @@
 🎓 Futuro Ingeniero en Informática
 
 - Transformando problemas complejos en soluciones lógicas.
+- Apasionado por la arquitectura de hardware y software.
 
 🎸 Soundtrack & Lifestyle:
-- Sonido analógico, discos de vinilo y seis cuerdas.
-- Fuerza y templanza mediante la calistenia.
-- Inmersión en historias virtuales de alta fidelidad (RDR2).
+- Música en formato físico, sonido de alta fidelidad y la guitarra como vía de escape.
+- Fuerza y templanza mediante la calistenia y la meditación.
+- Amante de la inmersión en historias virtuales de alta fidelidad (RDR2).
 
 ⚡La elegancia reside en la simplicidad del detalle.
 
