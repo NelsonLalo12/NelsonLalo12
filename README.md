@@ -41,9 +41,6 @@ Transformando problemas complejos en soluciones lógicas.
 
 <div align="Center">
 
-
-
-
 <!--este texto es un Linux girando XD-->
 <img width="200" src="https://github.com/user-attachments/assets/2547331e-3034-43a6-9dd0-d2f3f7078d45" />
 
@@ -51,9 +48,7 @@ Transformando problemas complejos en soluciones lógicas.
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
+
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
@@ -64,11 +59,11 @@ Transformando problemas complejos en soluciones lógicas.
 
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-### ✍️ Random Dev Quote
+### ✍️ Frase random del día:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trofeos:
 ![](https://github-profile-trophy.vercel.app/?username=NelsonLalo12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
   </td>
