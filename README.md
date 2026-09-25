@@ -82,9 +82,9 @@ Transformando problemas complejos en soluciones lógicas.
 
 <!--- estadisticas personal (start) -->
 
-![](https://github-readme-stats.shion.dev/api?username=NelsonLalo12&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=NelsonLalo12&theme=aura_dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NelsonLalo12&theme=aura_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=NelsonLalo12&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=NelsonLalo12&theme=codeSTACKr&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=NelsonLalo12&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 ### ✍️ Frase random del día:
@@ -93,6 +93,10 @@ Transformando problemas complejos en soluciones lógicas.
 
 ## 🏆 GitHub Trofeos:
 ![](https://github-profile-trophy.vercel.app/?username=NelsonLalo12&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
+ 
+  <!--- contador de visitas del perfil -->
+---
+[![](https://komarev.com/ghpvc/?username=NelsonLalo12&icon=1&color=1)](https://visitcount.itsvg.in)
 
   </td>
 </tr>
