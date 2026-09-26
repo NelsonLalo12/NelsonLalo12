@@ -10,7 +10,9 @@
 
 🎸 Fuera del código:
 ▫️ Amante de la buena música y la guitarra como vía de escape.
+
 ▫️ Calistenia y meditación para despejar la cabeza.
+
 ▫️ Viciando a RDR2 cuando hay tiempo libre.
 
 ⚡Keep it simple.
