@@ -12,9 +12,8 @@
 
 <p align="left">
 
-<hr>
 
-
+<pre>
 🎓 Futuro Ingeniero en Informática
 
 ▫️ Enfocado en arquitectura de hardware y software.
@@ -26,8 +25,7 @@
 ▫️ Calistenia y meditación para despejar la cabeza.
 
 ▫️ Viciando a RDR2 cuando hay tiempo libre.
-
-<hr>
+</pre>
 
 <h3><img src="https://cdn3.emoji.gg/emojis/315538-discord.gif" width="28"> Discord: nelsonlalo
 
