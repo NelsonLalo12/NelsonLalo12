@@ -9,6 +9,7 @@
 ▫️ Enfocado en arquitectura de hardware y software.
 
 🎸 Fuera del código:
+
 ▫️ Amante de la buena música y la guitarra como vía de escape.
 
 ▫️ Calistenia y meditación para despejar la cabeza.
