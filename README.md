@@ -6,7 +6,7 @@
 <p align="left"> <!-- eso así ir a la izquierda la linea de codigo de abajo-->
 
 <h1>
-<img src="https://cdn3.emoji.gg/emojis/476019-catpop.gif" width="16"> Sobre mí:  
+<img src="https://cdn3.emoji.gg/emojis/476019-catpop.gif" width="29"> Sobre mí:  
 
 
 <!--Intro start-->
