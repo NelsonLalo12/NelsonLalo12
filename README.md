@@ -102,7 +102,11 @@
 ![](https://streak-stats.demolab.com/?user=NelsonLalo12&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NelsonLalo12&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
 ### ✍️ Frase random del día:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
