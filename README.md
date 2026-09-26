@@ -95,7 +95,7 @@
   <!--- stats (start) -->
 <h2>
   <!--- gif de estadistica-->
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="37"> En proceso...
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="33"> En proceso...
 
 
 <!--- estadisticas personal (start) -->
