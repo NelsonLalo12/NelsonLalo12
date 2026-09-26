@@ -84,7 +84,7 @@
   <!--- stats (start) -->
 <h2>
   <!--- gif de estadistica-->
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Mis estadísticas en GitHub
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Mis estadísticas
 </h2>
 
 <!--- estadisticas personal (start) -->
@@ -98,11 +98,11 @@
 </p>
 
 
-
+<!--  Esto son otro tipo TEMA de estadísticas que no usare por ahora
 ![](https://github-readme-stats.shion.dev/api?username=NelsonLalo12&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=NelsonLalo12&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NelsonLalo12&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+-->
 ---
 ### ✍️ Frase random del día:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
