@@ -83,7 +83,7 @@
   <!--- stats (start) -->
 <h2>
   <!--- gif de estadistica-->
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Mis estadísticas
+ <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> En proceso...
 
 
 <!--- estadisticas personal (start) -->
