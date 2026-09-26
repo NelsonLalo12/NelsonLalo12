@@ -112,13 +112,15 @@
 <br>
 <br>
 <br>
+
 ### ✍️ Frase random del día:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+<!--
 ## 🏆 GitHub Trofeos:
 ![](https://github-profile-trophy.vercel.app/?username=NelsonLalo12&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
- 
+-->
+
   <!--- contador de visitas del perfil (POR AHORA NO FUNCIONA, PROBAR OTRO METODO
 ---
 [![](https://komarev.com/ghpvc/?username=NelsonLalo12&icon=1&color=1)](https://visitcount.itsvg.in)
