@@ -16,7 +16,6 @@
 
 ▫️ Viciando a RDR2 cuando hay tiempo libre.
 
-⚡Keep it simple.
 <h3><img src="https://cdn3.emoji.gg/emojis/315538-discord.gif" width="28"> Discord: nelsonlalo
 
 <!--📩 Mail: nelsonlalo12@gmail.com-->
