@@ -6,12 +6,12 @@
 <p align="left">
 🎓 Futuro Ingeniero en Informática
 
-- Enfocado en arquitectura de hardware y software.
+▫️ Enfocado en arquitectura de hardware y software.
 
 🎸 Fuera del código:
-- Amante de la buena música y la guitarra como vía de escape.
-- Calistenia y meditación para despejar la cabeza.
-- Viciando a RDR2 cuando hay tiempo libre.
+▫️ Amante de la buena música y la guitarra como vía de escape.
+▫️ Calistenia y meditación para despejar la cabeza.
+▫️ Viciando a RDR2 cuando hay tiempo libre.
 
 ⚡Keep it simple.
 <h3><img src="https://cdn3.emoji.gg/emojis/315538-discord.gif" width="28"> Discord: nelsonlalo
