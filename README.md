@@ -4,6 +4,7 @@
 </h1>
 
 <p align="left"> <!-- eso así ir a la izquierda la linea de codigo de abajo-->
+
 <h1
 <img src="https://cdn3.emoji.gg/emojis/476019-catpop.gif" width="28"> Sobre mí:  
 
