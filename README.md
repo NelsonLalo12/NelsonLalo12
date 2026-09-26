@@ -6,8 +6,8 @@
 <p align="left"> <!-- eso así ir a la izquierda la linea de codigo de abajo-->
 
 <h1>
+    
 <img src="https://cdn3.emoji.gg/emojis/476019-catpop.gif" width="29"> Sobre mí:  
-
 
 <!--Intro start-->
 
@@ -27,9 +27,10 @@
 
 ▫️ Viciando a RDR2 cuando hay tiempo libre.
 </pre>
+
 </h1>
 
-<h3><img src="https://cdn3.emoji.gg/emojis/315538-discord.gif" width="28"> Discord: nelsonlalo
+<h3><img src="https://cdn3.emoji.gg/emojis/315538-discord.gif" width="25"> Discord: nelsonlalo
 
 <!--📩 Mail: nelsonlalo12@gmail.com-->
 
