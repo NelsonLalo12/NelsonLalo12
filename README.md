@@ -84,7 +84,7 @@
 <h2>
   <!--- gif de estadistica-->
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">Mis estadísticas
-</h2>
+
 
 <!--- estadisticas personal (start) -->
 <br>
