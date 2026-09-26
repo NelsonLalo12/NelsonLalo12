@@ -2,7 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://cdn3.emoji.gg/emojis/476019-catpop.gif" width="28"> Sobre mí:  </h1>
+<br>
+<img src="https://cdn3.emoji.gg/emojis/476019-catpop.gif" width="28"> Sobre mí:  
+<br>
+
+</h1>
 
 
 
