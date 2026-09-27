@@ -127,14 +127,15 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br>
-
+<!--
 🏆 GitHub Trofeos:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![](https://github-profile-trophy.vercel.app/?username=NelsonLalo12&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
+-->
 
 </h2>
-  <!--- contador de visitas del perfil (POR AHORA NO FUNCIONA, PROBAR OTRO METODO
+  <!--- contador de visitas del perfil (POR AHORA NO FUNCIONA, PROBAR OTRO METODO)
 ---
 [![](https://komarev.com/ghpvc/?username=NelsonLalo12&icon=1&color=1)](https://visitcount.itsvg.in)
  -->
