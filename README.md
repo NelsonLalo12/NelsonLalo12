@@ -116,9 +116,10 @@
 
 <!--  Esto son otro tipo TEMA de estadísticas que no usare por ahora
 ![](https://github-readme-stats.shion.dev/api?username=NelsonLalo12&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=NelsonLalo12&theme=codeSTACKr&hide_border=true)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NelsonLalo12&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 -->
+![](https://streak-stats.demolab.com/?user=NelsonLalo12&theme=codeSTACKr&hide_border=true)<br/>
 <br>
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width="36"> Frase del día:
