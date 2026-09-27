@@ -17,7 +17,7 @@
 <pre>
 🎓 Futuro Ingeniero en Informática
 
-▫️ Enfocado en arquitectura de hardware y software.
+▫️ 𝐸𝑛𝑓𝑜𝑐𝑎𝑑𝑜 𝑒𝑛 𝑎𝑟𝑞𝑢𝑖𝑡𝑒𝑐𝑡𝑢𝑟𝑎 𝑑𝑒 ℎ𝑎𝑟𝑑𝑤𝑎𝑟𝑒 𝑦 𝑠𝑜𝑓𝑡𝑤𝑎𝑟𝑒.
 
 🎸 Fuera del código:
 
