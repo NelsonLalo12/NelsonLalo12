@@ -130,7 +130,7 @@
 <br>
 <br>
 </h2>
-<!--
+
 ## 🏆 GitHub Trofeos:
 ![](https://github-profile-trophy.vercel.app/?username=NelsonLalo12&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
 -->
