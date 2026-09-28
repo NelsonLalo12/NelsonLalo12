@@ -9,8 +9,8 @@
     
 <img src="https://cdn3.emoji.gg/emojis/476019-catpop.gif" width="29"> Sobre mí:  
 </h1>
-<!--Intro start-->
 
+<!--Intro start-->
 <p align="left">
 
 
